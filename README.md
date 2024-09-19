@@ -1,6 +1,8 @@
 # PyChallenge Semanal - Python La Paz
 
-Bienvenido al repositorio de los retos semanales de programación en Python organizados por la comunidad Python La Paz. En este repositorio encontrarás los desafíos de cada semana, sus soluciones y un scoreboard de los participantes.
+Hola Pythonista! 🐍 
+
+🎉 Bienvenido al repositorio de los retos semanales de programación en Python organizados por la comunidad 🐍 **Python La Paz** 🚀 En este repositorio encontrarás los desafíos de cada semana 📅, sus soluciones 📝 y un 🏆 scoreboard de los participantes 🎯
 
 ## Scoreboard hasta la semana 12
 
