@@ -1,6 +1,6 @@
 # PyChallenge Semanal - Python La Paz
 
-Bienvenido al repositorio de los retos semanales de programación en Python organizados por la comunidad Python La Paz. Aquí encontrarás los desafíos de cada semana, sus soluciones y un scoreboard de los participantes.
+Bienvenido al repositorio de los retos semanales de programación en Python organizados por la comunidad Python La Paz. En este repositorio encontrarás los desafíos de cada semana, sus soluciones y un scoreboard de los participantes.
 
 ## Scoreboard hasta la semana 12
 
@@ -92,7 +92,7 @@ El scoreboard muestra el rendimiento de los participantes hasta la semana 12. Ca
 
 
 > [!NOTE]
-> El registro de los participantes de cada reto se cierra una vez se publica el siguiente reto.
+> El envío de respuestas se cierra cuando se publica el siguiente reto semanal.
 
 
 ## Cómo Participar
@@ -103,6 +103,6 @@ El scoreboard muestra el rendimiento de los participantes hasta la semana 12. Ca
 
 3. **Envía tu Respuesta**: Para enviar tu respuesta, selecciona el emoji que creas que corresponde al resultado correcto del reto y compártelo en el grupo de WhatsApp de la comunidad.
 
-4. **Consulta el Scoreboard**: Verifica el scoreboard para ver cómo te has clasificado en comparación con otros participantes. 
+4. **Consulta el Scoreboard**: Verifica el scoreboard semanal para ver tu clasificación entre todos los participantes.
 
-5. **Actualización del Scoreboard**: El scoreboard se actualiza semanalmente con los resultados de los retos. Asegúrate de verificar tus puntos y el ranking regularmente.
+5. **Actualización del Scoreboard**: El scoreboard se actualiza semanalmente con los resultados de la última semana. No olvides revisar tus puntos y ranking cada semana.
